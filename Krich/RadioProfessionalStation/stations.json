@@ -1,0 +1,16 @@
+{
+    "stations":
+    [
+     {
+     "name": "KRICHPRAPAN",
+     "streamURL": "http://112.121.150.133:9564",
+     "imageURL": "krichprapan-logo.png",
+     "desc": "Krich-prapan radio station",
+     "longDesc": "Krich-prapan radio station",
+     "frequency": "RADIO STATION"
+     }
+    ]
+}
+
+
+
